@@ -4,3 +4,5 @@ Cent
 50-cent
 Manty 
 Mocha
+George
+Frog
